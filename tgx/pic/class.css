@@ -1,0 +1,90 @@
+.mainside {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana, Arial, Trebuchet MS, Tahoma
+}
+.mainside A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.mainside A:hover {
+	COLOR: #00ffff; TEXT-DECORATION: none
+}
+.mainhover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana, Arial, Trebuchet MS, Tahoma
+}
+.mainhover A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.mainhover A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.subhover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; LINE-HEIGHT: 10px; FONT-FAMILY: Arial, Tahoma, Verdana, Trebuchet MS
+}
+.subhover A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.subhover A:hover {
+	COLOR: #2163b9; TEXT-DECORATION: none
+}
+.subhoverov {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; LINE-HEIGHT: 10px; FONT-FAMILY: Arial, Tahoma, Verdana, Trebuchet MS
+}
+.subhoverov A {
+	COLOR: #2163b9; TEXT-DECORATION: none
+}
+.subhoverov A:hover {
+	COLOR: #2163b9; TEXT-DECORATION: none
+}
+.sidenav {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-HEIGHT: 13px; FONT-FAMILY: Arial, Verdana, Trebuchet MS, Tahoma
+}
+.sidenav A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.sidenav A:hover {
+	COLOR: #00ffff; TEXT-DECORATION: none
+}
+.product {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana, Arial, Trebuchet MS, Tahoma
+}
+.product A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.product A:hover {
+	COLOR: #2163b9; TEXT-DECORATION: none
+}
+.news {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-HEIGHT: 13px; FONT-FAMILY: Arial, Verdana, Trebuchet MS, Tahoma
+}
+.news A {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.news A:hover {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.submenu {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: 13px; FONT-FAMILY: Arial, Verdana, Trebuchet MS, Tahoma
+}
+.submenu A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.submenu A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.faq {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: 13px; FONT-FAMILY: Arial, Verdana, Trebuchet MS, Tahoma
+}
+.faq A {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.faq A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.mfont {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-STYLE: normal; FONT-FAMILY: MS Sans Serif, Verdana, Arial
+}
+.unnamed2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tit {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: Arial, MS Sans Serif, Verdana
+}
